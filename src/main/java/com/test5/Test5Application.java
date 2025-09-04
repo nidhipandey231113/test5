@@ -20,7 +20,8 @@ public class Test5Application {
 		String name = "tyson";
 
 		char ch = "x";
-                SpringApplication.run(Test5Application.class, args);
+		String name="pta nhi kya kr rhe hai";
+        SpringApplication.run(Test5Application.class, args);
 	}
 
 }
